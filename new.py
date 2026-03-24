@@ -11,7 +11,6 @@ import hashlib
 import time
 from concurrent.futures import ThreadPoolExecutor, wait, FIRST_COMPLETED
 import numpy as np
-import cv2
 from PIL import Image
 from dotenv import load_dotenv
 
