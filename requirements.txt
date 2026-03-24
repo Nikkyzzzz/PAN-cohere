@@ -1,1 +1,9 @@
-瑳敲浡楬ੴ潣敨敲攊獡潹牣渊浵祰漊数据⵶祰桴湯栭慥汤獥ੳ祰畭摰੦楰汬睯瀊瑹潨⵮潤整癮瀊湡慤൳
+streamlit
+cohere
+easyocr
+numpy
+opencv-python-headless
+pymupdf
+pillow
+python-dotenv
+pandas
