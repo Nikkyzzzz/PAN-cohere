@@ -17,6 +17,7 @@ from dotenv import load_dotenv
 
 # Skip slow Paddle model-host connectivity check during startup.
 os.environ.setdefault("PADDLE_PDX_DISABLE_MODEL_SOURCE_CHECK", "True")
+os.environ.setdefault("KMP_DUPLICATE_LIB_OK", "TRUE")
 
 try:
     import easyocr
